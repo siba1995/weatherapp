@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alarab\\source\\repos\\weatherApp\\weatherapp\\weatherapp.csproj": {}
+    "C:\\Users\\Alarab\\Documents\\weatherapp\\weatherapp\\weatherapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alarab\\source\\repos\\weatherApp\\weatherapp\\weatherapp.csproj": {
+    "C:\\Users\\Alarab\\Documents\\weatherapp\\weatherapp\\weatherapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alarab\\source\\repos\\weatherApp\\weatherapp\\weatherapp.csproj",
+        "projectUniqueName": "C:\\Users\\Alarab\\Documents\\weatherapp\\weatherapp\\weatherapp.csproj",
         "projectName": "weatherapp",
-        "projectPath": "C:\\Users\\Alarab\\source\\repos\\weatherApp\\weatherapp\\weatherapp.csproj",
+        "projectPath": "C:\\Users\\Alarab\\Documents\\weatherapp\\weatherapp\\weatherapp.csproj",
         "packagesPath": "C:\\Users\\Alarab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alarab\\source\\repos\\weatherApp\\weatherapp\\obj\\",
+        "outputPath": "C:\\Users\\Alarab\\Documents\\weatherapp\\weatherapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alarab\\source\\repos\\weatherapp\\weatherapp\\weatherapp.csproj",
+      "projectUniqueName": "C:\\Users\\Alarab\\Documents\\weatherapp\\weatherapp\\weatherapp.csproj",
       "projectName": "weatherapp",
-      "projectPath": "C:\\Users\\Alarab\\source\\repos\\weatherapp\\weatherapp\\weatherapp.csproj",
+      "projectPath": "C:\\Users\\Alarab\\Documents\\weatherapp\\weatherapp\\weatherapp.csproj",
       "packagesPath": "C:\\Users\\Alarab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alarab\\source\\repos\\weatherapp\\weatherapp\\obj\\",
+      "outputPath": "C:\\Users\\Alarab\\Documents\\weatherapp\\weatherapp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
